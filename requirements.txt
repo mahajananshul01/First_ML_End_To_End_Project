@@ -2,3 +2,33 @@ pandas
 numpy 
 seaborn
 -e .
+
+
+
+•
+Directed and mentored a multidisciplinary team of seven data scientists and data engineers within the
+Knowledge Experience (KX) group
+, part of the Enterprise Software Platform. Successfully delivered on complex stakeholder requirements, leveraging deep expertise in
+Gen AI
+to solve business challenges.
+•
+Pioneered the development of multiple
+LLM chatbots
+utilizing cutting-edge
+Gen AI
+technologies like
+LLAMA, ChatGPT, Giskard, and LIDA
+, empowering Tax and M&A teams to effectively parse and comprehend voluminous PDFs and structured JSON data. This resulted in a remarkable 50% surge in operational efficiency.
+•
+Written multiple prompts using
+Prompt Engineering
+to optimize the final output which is directly use to hit the API.
+•
+Successfully executed a comprehensive project involving data extraction from PDFs using
+Azure AI Form Recognizer.
+•
+Spearheaded the design and implementation of a chatbot that dynamically retrieves and processes data from three distinct sources—
+KX clients, DPN, KX assets
+using
+Azure OpenAI APIs.
+This chatbot provided users with filtered, relevant information, enhancing decision-making and user experience.
